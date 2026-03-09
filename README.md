@@ -1,3 +1,3 @@
 # Strategy-for-9512-part-3
 
-frc2713.github.io/QRScout/
+[Click this link lol] (frc2713.github.io/QRScout/)
